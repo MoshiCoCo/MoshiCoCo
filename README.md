@@ -11,7 +11,7 @@ I'm a Backend Developer.
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL 
 
 
-<img align="right" src="https://github-profile.misec.top/api?username=MoshiCoCo&layout=compact"/>
+<img align="right" src="https://github-profile.misec.top/api/top-langs/?username=MoshiCoCo&layout=compact"/>
 
 
 ## Magic Number
